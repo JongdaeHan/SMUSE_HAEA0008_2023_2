@@ -1,0 +1,27 @@
+[submodule "Software_Engineering_todolist"]
+	path = Software_Engineering_todolist
+	url = https://github.com/gomin0/Software_Engineering_todolist
+[submodule "SoftwareEngineering2023"]
+	path = SoftwareEngineering2023
+	url = https://github.com/parkchamchi/SoftwareEngineering2023
+[submodule "software_project"]
+	path = software_project
+	url = https://github.com/ki-student/software_project
+[submodule "SoftwareEngineeringProject"]
+	path = SoftwareEngineeringProject
+	url = https://github.com/tmdgus0228/SoftwareEngineeringProject
+[submodule "fourplus"]
+	path = fourplus
+	url = https://github.com/2023-software-engineering/fourplus
+[submodule "Asteroid_FrontEnd"]
+	path = Asteroid_FrontEnd
+	url = https://github.com/SoftwareEngineering-TeamProject/Asteroid_FrontEnd
+[submodule "Asteroid_BackEnd"]
+	path = Asteroid_BackEnd
+	url = https://github.com/SoftwareEngineering-TeamProject/Asteroid_BackEnd
+[submodule "Software_Engineering_2023"]
+	path = Software_Engineering_2023
+	url = https://github.com/ohsoyoungg/Software_Engineering_2023
+[submodule "koyun"]
+	path = koyun
+	url = https://github.com/k-oyun/Software_Engineering_todolist
